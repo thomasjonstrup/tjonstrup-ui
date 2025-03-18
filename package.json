@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "tjonstrup-ui",
   "private": true,
   "scripts": {
     "build": "turbo run build",
