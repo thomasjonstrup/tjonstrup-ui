@@ -1,6 +1,6 @@
 # tjonstrup-ui
 
-This Turborepo starter is maintained by the Turborepo core team.
+A modern monorepo built with Turborepo, featuring two Next.js applications (web and docs) and multiple shared packages (`@repo/ui`, `@repo/query`, `@repo/typescript-config`, etc.). This project demonstrates efficient monorepo development with shared components, React Query integration, and optimized builds using Turborepo's caching capabilities.
 
 ## Using this example
 
